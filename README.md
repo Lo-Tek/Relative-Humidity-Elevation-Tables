@@ -5,8 +5,8 @@ These are RH elevation tables for use with a psychrometer to take and track loca
 How to use this table:
 
 
-The top row of numbers moving right on the x axis are your wet bulb values. The y numbers moving down on the left are your dry bulb values.
-The table is simple, take your wet and dry numbers and find the intersecting rh.
+The top row of numbers moving right on the X axis are your wet bulb values. The Y numbers moving down on the left are your dry bulb values.
+Take your wet and dry values and find the intersecting rh.
 
 ex: using RH table 0-500ft
 wet 23
