@@ -1,5 +1,5 @@
 # Relative-Humidity-Elevation-Tables
-These are RH elevation tables for use with a psychrometer to take and track local weather patterns. 
+These are RH tables for use with a psychrometer to take and track local weather patterns. 
 I took the information from https://www.nwcg.gov/publications/pms437/weather/temp-rh-dp-tables and manually entered it into csv format.
 
 
